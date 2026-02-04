@@ -1,0 +1,26 @@
+MONGODB_URL="mongodb+srv://nirajguptakolaalok_db_user:kQ8tl88cAr5WU25T@cluster0.25zhj4r.mongodb.net/kirana"
+
+AUTH_SECRET="kasiahsfhasf"
+
+GOOGLE_CLIENT_ID="551121510738-iqq455bk8me0fk6s6h1rimqvgntrd5pu.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET="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"
+
+
+
+CLOUDINARY_CLOUD_NAME="dbhitycdv"
+CLOUDINARY_API_KEY="585372462999729"
+CLOUDINARY_SECRET="6uOdvurtwHS6_pTH5olr_xYbxKU"
+
+
+STRIPE_SECRET_KEY="sk_test_51StoYQKfpNX84UnOn1F1OyS8hPeoSOjkuGQ3TCtUuzzY7dC1pEXsijldLhawr8IZbMCLJSPhrlAiJ8UrJ91726h2008jvhuEBq"
+NEXT_BASE_URL="http://localhost:3000"
+
+STRIPE_WEBHOOK_SECRET=whsec_2ecb80927bc9b3bc26fc668c024c4db863bf001c1f94daf71f076eff010a2d69
+
+NEXT_PUBLIC_SOCKET_SERVER="http://localhost:4000"
+
+
+GEMINI_API_KEY="AIzaSyDouzQk53dE6C0rzpyA5tq1MKPzniNuN6Q"
+
+EMAIL="alokranjankolaalok@gmail.com"
+PASS="mnqt boxc evip awfm"
