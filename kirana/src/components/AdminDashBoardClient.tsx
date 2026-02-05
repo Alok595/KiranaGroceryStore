@@ -62,8 +62,7 @@ const AdminDashBoardClient = ({ earning, stats, chartData }: propType) => {
     return TrendingUp;
   };
 
-  const getStatValue = (value: any) =>
-    value.totalOrders ?? value.totalCustomers ?? value.pendingDeliveries ?? 0;
+  const getStatValue = (value: number) => value;
 
   return (
     <div className="min-h-[60vh] flex items-center justify-center px-4">
